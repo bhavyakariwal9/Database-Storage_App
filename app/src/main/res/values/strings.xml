@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RidobikoSolutions</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="aadhar_number">Aadhar Number</string>
+    <string name="enter_aadhar_number">Enter Aadhar Number</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="view_all_entries">View All Entries</string>
+    <string name="search_by_mobile_number">Search by mobile number</string>
+    <string name="search">Search</string>
+</resources>
