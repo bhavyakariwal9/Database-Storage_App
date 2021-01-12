@@ -10,9 +10,9 @@ Functionalities include:
 
 ## Screenshots
 
-#Main Activity
+##Main Activity
 ![](/Screenshots/mainActivity.png)
 
-#ViewDataEntry Activity
+##ViewDataEntry Activity
 ![](/Screenshots/viewDataEntry.png)
 
